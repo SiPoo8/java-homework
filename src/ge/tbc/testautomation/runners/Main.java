@@ -32,7 +32,7 @@ public class Main {
        // Triangles
         // Normal
         // Previous One was 6 and it cant be
-        Triangle triangle = new Triangle(3.0, 4.0, 5.0, 6);
+        Triangle triangle = new Triangle(3.0, 4.0, 5.0, 4.0;
         triangle.printPackageName();
         System.out.println(triangle.getArea());
         System.out.println(triangle.getLength());
