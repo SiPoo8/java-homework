@@ -1,3 +1,4 @@
+/*
 package ge.tbc.testautomation.runners;
 
 import ge.tbc.testautomation.abstractClassesInterfaces.Circle;
@@ -49,4 +50,4 @@ public class Main {
         Triangle invalidTriangle = new Triangle(1.0, 2.0, 8.0, 2.0);
         System.out.println("Invalid triangle valid: " + invalidTriangle.validateFigure());
     }
-}
+}*/
